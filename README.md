@@ -65,12 +65,6 @@ Feito com ❤️ por Tayse Rosa 🚀
 <br/>
 <br/>
 
-<a href="https://github.com/TayseRosa/" target="_blank">
-<img src="https://img.shields.io/static/v1?label=GitHub&message=Tayse Rosa&color=black&style=for-the-badge&logo=github"/>
-</a>
-<br/>
-<br/>
-
 <a href="https://api.whatsapp.com/send?phone=5551982368077" target="_blank">
 <img src="https://img.shields.io/static/v1?label=whatsapp&message=Tayse Rosa&color=green&style=for-the-badge&logo=whatsapp"/>
 </a>
@@ -80,6 +74,12 @@ Feito com ❤️ por Tayse Rosa 🚀
 
 <a href="https://www.tayserosa.dev" target="_blank">
 <img src="https://img.shields.io/static/v1?label=Portfólio&message=Tayse Rosa&color=pink&style=for-the-badge&logo=portfolio"/>
+</a>
+<br/>
+<br/>
+
+<a href="https://github.com/TayseRosa/" target="_blank">
+<img src="https://img.shields.io/static/v1?label=GitHub&message=Tayse Rosa&color=black&style=for-the-badge&logo=github"/>
 </a>
 <br/>
 <br/>
