@@ -1,8 +1,9 @@
 <h1 align="center">React Native - Projeto Biscoito da Sorte </h1>
 
 # 🛠 Sobre o Projeto RN - Biscoito da Sorte
-
-<img src="./img/readme.jpg" width="50%" height="auto" />
+<p align="center">
+<img src="./img/readme.jpg" width="30%" height="auto" />
+</p>
 
 # 🚀 Tecnologias utilizadas neste projeto
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
